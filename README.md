@@ -1,5 +1,5 @@
 # fail-safe
-An analysis on digital marketing campaigns conducted by team FAIL-SAFE.
+An analysis on a global telecommunications company's digital marketing campaigns conducted by team FAIL-SAFE.
 
 ## Team information
 <ins>FAIL</ins>-SAFE
