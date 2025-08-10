@@ -13,3 +13,6 @@ An analysis on a global telecommunications company's digital marketing campaigns
 
 ## Google Drive folder
 - FAIL-SAFE Capstone Project: https://drive.google.com/drive/folders/1MUh7rDZyZQRO4c6renQYFR1dko7z4KYk?usp=drive_link
+
+## Tableau dashboard
+- Telecommunications Marketing - Creative Strategy: https://public.tableau.com/app/profile/alyssa.ayala/viz/Book1_17304268220260/Home
