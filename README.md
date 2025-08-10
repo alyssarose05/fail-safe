@@ -9,7 +9,7 @@ An analysis on a global telecommunications company's digital marketing campaigns
 - **Eddie <ins>L</ins>i**, Inventory Analyst
 
 **Team Leader**: Janet Llinas  
-**Team Origin**: COOP Careers NYC Fall 2024, Data Analytics Cohort 463
+**Team Origin**: COOP Careers NYC Fall 2024, Data Analytics Cohort C463
 
 ## Google Drive folder
 - FAIL-SAFE Capstone Project: https://drive.google.com/drive/folders/1MUh7rDZyZQRO4c6renQYFR1dko7z4KYk?usp=drive_link
