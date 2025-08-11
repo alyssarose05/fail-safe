@@ -3,7 +3,7 @@ An analysis on a global telecommunications company's digital marketing campaigns
 
 ## Team information
 <ins>FAIL</ins>-SAFE
-- **Art <ins>F</ins>ursenko**, Audence Analyst
+- **Art <ins>F</ins>ursenko**, Audience Analyst
 - **Alyssa <ins>A</ins>yala**, Creative Analyst
 - **Austin <ins>I</ins>ntrona**, Spatial Analyst
 - **Eddie <ins>L</ins>i**, Inventory Analyst
